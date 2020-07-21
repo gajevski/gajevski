@@ -1,5 +1,3 @@
-<img width="100%" src='https://i.ibb.co/47KVx3k/Github-Profile-Olaf.png" alt="Olaf with computer' />
-
 ## About me 
 
 I am front-end developer with 2+ years of experience. I've been working with Angular 2+ framework for over two years and I had opportunity to create several projects.
