@@ -2,10 +2,11 @@
 
 ## About me 
 
-I'm 19 years old, technical student. I build **open-source** projects and write about frontend technologies on <a href="https://www.frontlive.pl/">frontlive.pl</a>. I'm in love with JAMStack, ReactJS and its ecosystem 💙. Still learning and discovering new stuff! 
+I am front-end developer with 2+ years of experience. I've been working with Angular 2+ framework for over two years and I had opportunity to create several projects.
+I was working with technologies like: Angular 2+, Angular Material, RXJS, NGRX, Bootstrap, Python, Django, Rest API.
+Currently I am lead front-end developer in Movemeback, where I had opportunity to pick technologies and set architecture for few of our Angular projects.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/olaf-sulich/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:olafsulich@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miko%C5%82aj-gajewski-276146144/)](https://www.linkedin.com/in/miko%C5%82aj-gajewski-276146144/)
 
 ## Technologies 
 
