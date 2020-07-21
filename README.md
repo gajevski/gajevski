@@ -10,14 +10,14 @@ Currently I am lead front-end developer in Movemeback, where I had opportunity t
 
 ## Technologies 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)]
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/olafsulich/)]
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/olafsulich/)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/olafsulich/)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/olafsulich/)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git]
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git
 
 ## Popular posts
 
