@@ -36,17 +36,7 @@ Currently I am lead front-end developer in Movemeback, where I had opportunity t
 
 ## Popular posts
 
-- <a href="https://www.frontlive.pl/css-houdini/"><img align="center" width="20" height="20" src='https://www.frontlive.pl/static/695197f9845f4e2da7a3da0e77e784f4/4148e/css.png' /> 
+- <a href="https://medium.com/@mikolajxgajewski/why-teaching-others-is-best-option-to-learn-new-things-e9d2ca0bf0c6"><img align="center" width="20" height="20" src='https://www.frontlive.pl/static/695197f9845f4e2da7a3da0e77e784f4/4148e/css.png' /> 
 **CSS Houdini - przyszłość CSSa czy niepotrzebna nowość?**</a>
 
-- <a href="https://www.frontlive.pl/javascript-es10/"><img align="center" width="20" height="20" src='https://www.frontlive.pl/static/5e267e2ee412a23e797106ee564145a0/4148e/js.png' /> 
-**JavaScript - ES6 to już przeżytek, nastała era ES10!**</a>
-
-
-- <a href="https://www.frontlive.pl/typescript-react/"><img align="center" width="20" height="20" src='https://www.frontlive.pl/static/835244e9492188eb03cdd9b7c142187d/4148e/typescript.png' /> 
-**TypeScript - React, Redux i Styled Components**
-</a>
-
-- <a href="https://www.frontlive.pl/readme-github/"><img align="center" width="20" height="20" src='https://www.frontlive.pl/static/ef7a02b69836dc8b6a732a54c4200dcb/1e576/github.png' /> 
-**README na Githubie - robisz to źle!**
 </a>
