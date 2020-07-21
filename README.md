@@ -15,7 +15,7 @@ Currently I am lead front-end developer in Movemeback, where I had opportunity t
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/olafsulich/)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/olafsulich/)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## Popular posts
 
