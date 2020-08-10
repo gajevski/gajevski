@@ -36,3 +36,8 @@ Currently I am lead front-end developer in Movemeback, where I had opportunity t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+## Popular posts
+
+- <a href="https://medium.com/@mikolajxgajewski/why-teaching-others-is-best-option-to-learn-new-things-e9d2ca0bf0c6"><img align="center" width="20" height="20" src='https://dailyweb.pl/wp-content/uploads/2017/08/medium_2017_monogram-1200x1200.png' /> 
+**Why teaching others is best option to learn new things**</a>
