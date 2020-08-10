@@ -24,7 +24,7 @@ Currently I am lead front-end developer in Movemeback, where I had opportunity t
 - 💻 I’m currently working with [Movemeback](https://www.movemeback.com);
 - 🌱 I’m currently learning RXJS and Reactive Programming; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started working with Movemeback as Front-End Developer when I was 19
+- ⚡️ Fun-Fact: I started working with Movemeback as Front-End Developer when I was 19. I like pirates 🦜, RPG games 🎮, Cyperpunk 🤖 and dogs 🐕
 - 📫 How to reach me: mikolajxgajewski@gmail.com;
 
 **Languages and Tools:**  
