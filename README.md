@@ -21,8 +21,8 @@ Currently I am lead front-end developer in Movemeback, where I had opportunity t
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working with [Movemeback](https://www.movemeback.com);
-- 🌱 I’m currently learning RXJS and Reactive Programming; 
+- 💻 I’m currently working with [SoftServe](https://www.softserveinc.com/en-us);
+- 🌱 I’m currently learning RxJS and Reactive Programming; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started working with Movemeback as Front-End Developer when I was 19. I like pirates 🦜, RPG games 🎮, Cyperpunk 🤖 and dogs 🐕
 - 📫 How to reach me: mikolajxgajewski@gmail.com;
