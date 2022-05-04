@@ -44,5 +44,7 @@ I am currently working at SoftServe as a software engineer.
 
 ## Popular posts
 
+<div>
 - <a href="https://medium.com/@mikolajxgajewski/why-teaching-others-is-best-option-to-learn-new-things-e9d2ca0bf0c6"><img align="center" width="20" height="20" src='https://dailyweb.pl/wp-content/uploads/2017/08/medium_2017_monogram-1200x1200.png' /> 
 **Why teaching others is best option to learn new things**</a>
+ </div>
