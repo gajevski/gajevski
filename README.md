@@ -13,13 +13,13 @@
 <br />
 <br />
 
-I am front-end developer with 4+ years of experience. I've been working with Angular 2+ framework for over three
+I am front-end developer with 5+ years of experience. I've been working with Angular 2+ framework for over three
 years and I had opportunity to create several projects.
 I've worked with technologies like: Angular 2+, Angular Material, RXJS, NGRX, NestJS, NodeJS, Bootstrap,
 TailwindCSS, Python, Django, Rest API.
 At my previous company I was lead front-end developer in Movemeback, where I had opportunity to pick
 technologies and set architecture for few of our Angular projects.
-I am currently working at SoftServe as a software engineer.
+I am currently working at Pekao bank as a software engineer.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
