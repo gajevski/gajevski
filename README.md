@@ -28,7 +28,7 @@ I am currently working at Pekao bank as a software engineer.
 - 💻 I’m currently working with [SoftServe](https://www.softserveinc.com/en-us);
 - 🌱 I’m currently learning RxJS and Reactive Programming; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started working with Movemeback as Front-End Developer when I was 19. I like pirates 🦜, RPG games 🎮, Cyperpunk 🤖 and dogs 🐕
+- ⚡️ Fun-Fact: I started working with Movemeback as Front-End Developer when I was 19. I like RPG games 🎮, Cyperpunk 🤖 and dogs 🐕
 - 📫 How to reach me: mikolajxgajewski@gmail.com;
 
 **Languages and Tools:**  
