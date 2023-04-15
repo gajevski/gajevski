@@ -19,13 +19,13 @@ I've worked with technologies like: Angular 2+, Angular Material, RXJS, NGRX, Ne
 TailwindCSS, Python, Django, Rest API.
 At my previous company I was lead front-end developer in Movemeback, where I had opportunity to pick
 technologies and set architecture for few of our Angular projects.
-I am currently working at Pekao bank as a software engineer.
+I am currently working for Pekao bank as a software engineer.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working with [Pekao Bank](https://www.pekao.com.pl/);
+- 💻 I’m currently working for [Pekao Bank](https://www.pekao.com.pl/);
 - 🌱 I’m currently learning Rust; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started working with Movemeback as Front-End Developer when I was 19. I like RPG games 🎮, Cyperpunk 🤖 and dogs 🐕
