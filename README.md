@@ -13,13 +13,11 @@
 <br />
 <br />
 
-I am front-end developer with 5+ years of experience. I've been working with Angular 2+ framework for over three
-years and I had opportunity to create several projects.
-I've worked with technologies like: Angular 2+, Angular Material, RXJS, NGRX, NestJS, NodeJS, Bootstrap,
-TailwindCSS, Python, Django, Rest API.
-At my previous company I was lead front-end developer in Movemeback, where I had opportunity to pick
-technologies and set architecture for few of our Angular projects.
-I am currently working for Pekao bank as a software engineer.
+I am a software developer with over 5 years of experience. I've been working with Angular 2+ framework for more than four years and had opportunity to create several projects.
+
+I have worked with technologies such as: TypeScript, Angular 2+, NodeJS, Angular Material, RXJS, NGRX, Bootstrap, Python, Django, Rest API, AWS
+
+I am currently working for the second largest bank in Poland, where we are building a highly personalised project from scratch for a corporate client.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
