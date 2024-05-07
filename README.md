@@ -13,11 +13,11 @@
 <br />
 <br />
 
-I am a software developer with over 5 years of experience. I've been working with Angular 2+ framework for more than four years and had opportunity to create several projects.
+I am a software developer with over five years of experience. I have been working with the Angular 2+ framework for more than four years and have had the opportunity to create several projects.
 
-I have worked with technologies such as: TypeScript, Angular 2+, NodeJS, Angular Material, RXJS, NGRX, Bootstrap, Python, Django, Rest API, AWS
+I have worked with a range of technologies, including: I am proficient in TypeScript, Angular 2+, NodeJS, Angular Material, RXJS, NGRX, Bootstrap, Python, Django, Rest API, and AWS.
 
-I am currently working for the second largest bank in Poland, where we are building a highly personalised project from scratch for a corporate client.
+Currently, I am employed by the second largest bank in Poland, where I am responsible for developing a highly personalized project from scratch for a corporate client.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
