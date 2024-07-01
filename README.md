@@ -24,7 +24,7 @@ Currently, I am employed by the second largest bank in Poland, where I am respon
 **Talking about Personal Stuffs:**
 
 - 💻 I’m currently working for [Pekao Bank](https://www.pekao.com.pl/);
-- 🌱 I’m currently learning Rust; 
+- 🌱 I’m currently learning Go; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started working with Movemeback as Front-End Developer when I was 19. I like RPG games 🎮, Cyperpunk 🤖 and dogs 🐕
 - 📫 How to reach me: mikolajxgajewski@gmail.com;
